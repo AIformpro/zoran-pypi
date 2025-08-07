@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Archives
+*.tar.gz
+*.zip
+*.whl
+
+# Zoran PyPI package artifacts
+zoran_pypi.egg-info/
